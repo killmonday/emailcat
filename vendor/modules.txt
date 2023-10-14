@@ -1,0 +1,19 @@
+# github.com/AfterShip/email-verifier v1.3.3
+## explicit; go 1.15
+github.com/AfterShip/email-verifier
+# github.com/hbollon/go-edlib v1.6.0
+## explicit; go 1.13
+github.com/hbollon/go-edlib
+github.com/hbollon/go-edlib/internal/orderedmap
+github.com/hbollon/go-edlib/internal/utils
+# golang.org/x/net v0.7.0
+## explicit; go 1.17
+golang.org/x/net/idna
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
+# golang.org/x/text v0.7.0
+## explicit; go 1.17
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
